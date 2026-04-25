@@ -12,7 +12,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 
 🎯 This project showcases expertise in:
 
--**SQL Development,
+**-SQL Development,
 - Data Architect,
 - Data Engineering,
 - ETL Pipeline Developer,
