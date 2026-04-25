@@ -12,11 +12,11 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 
 🎯 This project showcases expertise in:
 
-- SQL Development,
-- Data Architect,
-- Data Engineering,
-- ETL Pipeline Developer,
-- Data Modelling,
+- SQL Development
+- Data Architect
+- Data Engineering
+- ETL Pipeline Developer
+- Data Modelling
 - Data Analytics
 
 **Building the Data Warehouse (Data Engineering)**
