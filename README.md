@@ -20,8 +20,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 - Data Analytics
 
  **📋 Project Requirements** 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 ## Building the Data Warehouse (Data Engineering)
 **Objective**:
 - Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
@@ -34,7 +33,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics
 
 BI: Analytics & Reporting (Data Analysis)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 **Objective**
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -43,3 +42,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 - Sales Trends
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+---
+## 🛡️License
+This project is licensed under the [MIT License] (LICENSE).. You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+Hey there!👋🏾  
+I’m Teliah Yashariym, your Detective Data Tech nerd 🕵🏽‍♀️🤓 I'm a Business Intelligence Consultant and Developer passionate about turning raw data into meaningful business insights. What sets me apart is my ability to bridge the gap between data and business. I don’t just analyse data I help organisations understand it, communicate it effectively, and use it to drive smarter decisions.
