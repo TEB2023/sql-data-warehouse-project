@@ -32,9 +32,9 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 - **Scope**: Focus on the latest dataset only: historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics
 
-BI: Analytics & Reporting (Data Analysis)
----
-**Objective**
+### BI: Analytics & Reporting (Data Analysis)
+
+#### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
 - Customer Behaviour
@@ -42,6 +42,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - Sales Trends
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
 ---
 ## 🛡️License
 This project is licensed under the [MIT License] (LICENSE).. You are free to use, modify, and share this project with proper attribution.
