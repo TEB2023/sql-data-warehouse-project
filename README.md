@@ -19,7 +19,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 - Data Modelling
 - Data Analytics
 
- **📋 Project Requirements** 
+ ## **📋 Project Requirements** 
 ---
 ### Building the Data Warehouse (Data Engineering)
 
