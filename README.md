@@ -18,9 +18,7 @@ Data Engineering,
 ETL Pipeline Developer,
 Data Modelling,
 Data Analytics**
-
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Building the Data Warehouse (Data Engineering)**
 
