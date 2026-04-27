@@ -19,7 +19,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 - Data Modelling
 - Data Analytics
 
-  --
+  
   ## Data Architecture
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
