@@ -1,13 +1,3 @@
-## Data Architecture
-
-The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
-<img width="1544" height="912" alt="WhatsApp Image 2026-04-27 at 12 09 53 PM" src="https://github.com/user-attachments/assets/2ec88349-6e40-44fd-b6b0-4ac7765f7b9f" />
-
-
-1. Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
-2. Silver Layer: This layer includes data cleansing, standardisation, and normalisation processes to prepare data for analysis.
-3. Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
----
 # Data warehouse and Analytics project
   Welcome to the **Data warehouse and Analytics project** repository!🥳
   
@@ -28,6 +18,18 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 - ETL Pipeline Developer
 - Data Modelling
 - Data Analytics
+
+  --
+  ## Data Architecture
+
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+<img width="1544" height="912" alt="WhatsApp Image 2026-04-27 at 12 09 53 PM" src="https://github.com/user-attachments/assets/2ec88349-6e40-44fd-b6b0-4ac7765f7b9f" />
+
+
+1. Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+2. Silver Layer: This layer includes data cleansing, standardisation, and normalisation processes to prepare data for analysis.
+3. Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+---
 
  ## **📋 Project Requirements** 
 ---
