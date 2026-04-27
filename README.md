@@ -59,4 +59,4 @@ This project is licensed under the [MIT License] (LICENSE).. You are free to use
 
 ## 🌟 About Me
 Hey there!👋🏾  
-I’m Teliah Yashariym, your Detective Data Tech nerd 🕵🏽‍♀️🤓 I'm a Business Intelligence Consultant and Developer passionate about turning raw data into meaningful business insights. What sets me apart is my ability to bridge the gap between data and business. I don’t just analyse data, I help organisations understand it, communicate it effectively and use it to drive smarter decisions.
+I’m Teliah Yashariym, your Detective Data Tech nerd 🕵🏽‍♀️🤓 I'm a Analytics Engineer & Power BI Consultant passionate about turning raw data into meaningful business insights. What sets me apart is that I don't just build reports I engineer the clean, governed data that makes those reports trustworthy. I bridge the gap between raw data and business intelligence, owning the full stack from ingestion to insight.
